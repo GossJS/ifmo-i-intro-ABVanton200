@@ -1,0 +1,15 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<portfolio>
+	<skills>
+		<skill id="1" area="HTML" value="perfect" />
+		<skill id="2" area="CSS" value="perfect" />
+		<skill id="3" area="JS" value="good" />
+		<skill id="4" area="BEM" value="good" />
+		<skill id="5" area="LESS" value="good" />
+		<skill id="6" area="MySQL" value="good" />
+		<skill id="7" area="PHP" value="good" />
+		<skill id="8" area="Yii 2" value="norm" />
+		<skill id="9" area="TLS" value="good" />
+		<skill id="10" area="MODX" value="norm" />	
+	</skills>
+</portfolio>
